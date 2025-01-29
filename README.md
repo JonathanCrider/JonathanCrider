@@ -1,11 +1,12 @@
 # Hello, I'm Jonathan! 
 
-I'm a software engineer specializing in backend development, with expertise in Node.js, TypeScript, and Express. Currently diving deeper into systems and infrastructure, particularly Linux administration and observability with Grafana and Prometheus.
+I'm a software engineer specializing in backend development, with expertise in Node.js, TypeScript, and Express. Currently diving deeper into systems and infrastructure, and expanding my skills through practical projects and structured learning.
 
 ## Current Focus
 - Building and maintaining REST APIs
-- Systems observability and monitoring
-- Learning Python, SQL, and preparing for Go
+- Learning Python and SQL
+- Preparing to tackle Go
+- Linux administration (via a stubborn Minecraft server)
 - Teaching my kiddo their first programming language!
 
 ## Let's Connect!
