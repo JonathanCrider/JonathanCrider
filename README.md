@@ -14,3 +14,5 @@ I'm a software engineer primarily focused on backend development, with expertise
 - [Full Bio](https://github.com/JonathanCrider/README) - More about my journey, experience, and interests
 
 Note: While my public repositories represent only a portion of my work, I'm actively building and learning in private repositories and through [Boot.dev](https://www.boot.dev/) courses.
+
+*Previous professional work activity (private repos) can be seen at my [work-specific GitHub](https://github.com/jonathan-fsa)*
