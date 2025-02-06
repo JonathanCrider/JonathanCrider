@@ -15,4 +15,4 @@ I'm a software engineer primarily focused on backend development, with expertise
 
 Note: While my public repositories represent only a portion of my work, I'm actively building and learning in private repositories and through [Boot.dev](https://www.boot.dev/) courses.
 
-*Previous professional work activity (private repos) can be seen at my [work-specific GitHub](https://github.com/jonathan-fsa)*
+*Previous professional work activity (private repos) can be seen at my now deprecated [work-specific GitHub](https://github.com/jonathan-fsa)*
