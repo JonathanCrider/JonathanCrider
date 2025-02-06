@@ -1,6 +1,6 @@
 # Hello, I'm Jonathan! 
 
-I'm a software engineer specializing in backend development, with expertise in Node.js, TypeScript, and Express. Currently diving deeper into systems and infrastructure, and expanding my skills through practical projects and structured learning.
+I'm a software engineer primarily focused on backend development, with expertise in TypeScript, Node.js, and Express. Currently diving deeper into systems and infrastructure, and expanding my skills through practical projects and structured learning.
 
 ## Current Focus
 - Building and maintaining REST APIs
