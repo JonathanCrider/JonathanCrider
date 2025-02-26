@@ -1,13 +1,13 @@
 # Hello, I'm Jonathan! 
 
-I'm a software engineer primarily focused on backend development, with expertise in TypeScript, Node.js, and Express. Currently diving deeper into systems and infrastructure, and expanding my skills through practical projects and structured learning.
+I'm a software engineer primarily focused on backend development and SaaS integrations and implementations, with expertise in TypeScript, Node.js, and Express. Currently diving deeper into systems and infrastructure, and expanding my skills through practical projects and structured learning.
 
 ## Current Focus
-- Building and maintaining REST APIs
+- Building projects and upskilling while looking for work
 - Learning Python and SQL
-- Preparing to tackle Go
+- Preparing to tackle Go, along with other backend-focused technologies
 - Linux administration (via a stubborn Minecraft server)
-- Teaching my kiddo their first programming language!
+- Teaching my kiddo his first programming language!
 
 ## Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/jonathandev/)
