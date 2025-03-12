@@ -3,14 +3,14 @@
 I'm a software engineer primarily focused on backend development and SaaS integrations and implementations, with expertise in building APIs using TypeScript, Node.js, and Express. Currently diving deeper into systems and infrastructure, and expanding my skills through practical projects and structured learning.
 
 ## Current Focus
-- Building projects, both personal and non-profit
+- Building projects, both personal and for non-profit
 - Upskilling while looking for work by
+  - Maintaining JavaScript and API development skills
   - Learning Python
   - Brushing up on SQL
   - Preparing to tackle Go, along with other backend-focused technologies
-- Linux administration (via a stubborn Minecraft server)
-- Teaching my kiddo his first programming language!
-- Discovering new memes to share
+- Linux administration (via a stubborn Minecraft server...finally figured out the root freezing issue!)
+- Teaching my kiddo his first programming language via the [Asteroids](https://github.com/JonathanCrider/asteroids) Python project
 
 ## Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/jonathandev/)
