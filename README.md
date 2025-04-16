@@ -9,7 +9,7 @@ I'm a software engineer primarily focused on backend development and SaaS integr
   - Learning Python
   - Brushing up on SQL
   - Preparing to tackle Go, along with other backend-focused technologies
-- Linux administration (via a stubborn Minecraft server. Finally figured out the root freezing issue, currently at 6 weeks uptime...so far...)
+- Linux administration (*via a stubborn Minecraft server. Finally figured out the root freezing issue, uptime at 2+ months and counting!*)
 - Teaching my kiddo his first programming language via the [Asteroids](https://github.com/JonathanCrider/asteroids) Python project
 
 ## Let's Connect!
