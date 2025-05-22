@@ -5,7 +5,7 @@ I'm a software engineer primarily focused on backend development and SaaS integr
 ## Current Focus
 - Finally employed full-time again!
 - Learning codebase for work, which includes technologies like GraphQL, Slonik, and modern React
-- It's all private repos, but you can see the activity graph on my new [work-specific GitHub](https://github.com/jonathan-if)
+- It's all private repos, but you can see the activity graph on my [new work-specific GitHub](https://github.com/jonathan-if)
 
 ## When I have time...
 - Building projects, both personal and for non-profit
@@ -23,4 +23,4 @@ I'm a software engineer primarily focused on backend development and SaaS integr
 
 Note: While my public repositories represent only a portion of my work, I'm actively building and learning in private repositories and through [Boot.dev](https://www.boot.dev/) courses.
 
-*Previous professional work activity (private repos) can be seen at my now deprecated previous [work-specific GitHub](https://github.com/jonathan-fsa)*
+*Previous professional work activity (private repos) can be seen at my now deprecated [previous work-specific GitHub](https://github.com/jonathan-fsa)*
