@@ -14,7 +14,13 @@ I'm a software engineer primarily focused on backend development and SaaS integr
   - Learning Python
   - Brushing up on SQL
   - Preparing to tackle Go, along with other backend-focused technologies
-- Linux administration (*via a stubborn Minecraft server running on headless Ubuntu. Finally figured out the root freezing issue, uptime uninterrupted since early February 2025*)
+- Linux administration running several services using Docker/Docker Compose
+  - Minecraft servers
+  - Security and availibility with services like DDNS-updater/Nginx/Fail2Ban
+  - Observability with Prometheus/Grafana/Cadvisor
+  - Home Assistant
+  - Pihole
+  - ALL THE CONTAINERS!!!1!
 - Teaching my kiddo his first programming language via the [Asteroids](https://github.com/JonathanCrider/asteroids) Python project
 
 ## Let's Connect!
